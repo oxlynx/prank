@@ -1,0 +1,12 @@
+## PRANK SMS & CALL ##
+
+$ pkg update && pkg upgrade
+$ pkg install bash
+$ pkg install git
+$ git clone https ://guthub.com/oxlynx/prank
+$ cd prank
+$ sh prank.sh
+
+## GUNAKAN DENGAN BIJAK, SAYA SELAKU PEMBUAT SCRIPT TIDAK BERTANGGUNG JAWAB ATAS TINDAKAN YANG ANDA LAKUKAN ##
+
+Author : OxLynx
